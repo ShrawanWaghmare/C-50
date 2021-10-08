@@ -1,0 +1,36 @@
+h1 {
+    
+    color: bisque;
+    
+    
+}
+
+.menu {
+    background-color: cornflowerblue;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.siteDescription {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.item {
+    text-align: center;
+}
+
